@@ -1,15 +1,7 @@
 @charset "UTF-8";
-/* ========================
-Bootstrap with custom variables
-=================== */
-/*!
- * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
-  --blue: #3167eb;
+  --blue: #283891;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -161,7 +153,7 @@ sup {
 }
 
 a {
-  color: #3167eb;
+  color: #283891;
   text-decoration: none;
   background-color: transparent;
 }
